@@ -1,0 +1,7 @@
+{
+    "home_adress": "INSERT POINT A HERE",
+    "destination_address": "INSERT POINT B HERE",
+    "gmaps_api_key" : "INSERT GMAPS API KEY HERE",
+    "Twilio_sid" : "INSERT TWILIO SID",
+    "Twilio_token" : "INSERT TWILIO TOKEN"
+}
